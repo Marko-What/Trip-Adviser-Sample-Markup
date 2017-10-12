@@ -1,0 +1,400 @@
+
+@media screen and (max-width: 725px) {
+	div#wrapper {
+				width: 100%;
+				/*border:1px solid red;*/
+				overflow:hidden;
+			}
+			
+			div#green button {
+				width: 125px;
+			}
+
+
+			div#header {
+				width: 100%;
+				padding:0px;
+				height: 40px;
+				/*width:50px!important;	*/
+				background-color:#4b7e37;
+				overflow:hidden;
+				color: white;	
+			}
+
+			div#inline-head {
+				width: 80%;
+				margin-left:0px;
+				text-align: center;		
+			}
+
+			div#header ul li {
+				width:80%;
+				margin:0 auto;	
+				font-size:20px;
+				color: white;
+				border-left:none;
+				float:none;
+				text-align: center;	
+				border-bottom:3px solid white;				
+			}
+
+			div#header ul li:hover {
+				font-size:23px;
+				font-weight:700;
+				/*color: yellow;*/	
+				border-bottom:3px solid yellow;		
+			}
+
+			div#header ul {
+				width:100%;
+				float:none;
+				/*border:1px solid red;*/
+				margin: 13px auto;
+				margin-top: 5px;
+				margin-right: 25px;			
+			}
+
+			div#green {
+				width: 100%;
+				height:inherit;
+				/*padding:10px;*/
+				margin-top: 4px;
+			}
+
+			div#green ul {
+				width:100%;
+				/*margin:5px;*/
+				height: 70px; /**/
+				/*border:1px solid red;*/
+				margin-bottom:10px;
+				float:left;
+				font-size: 15px;
+				font-weight:600;
+			}
+
+			div#green ul li:hover {
+				font-size:16px;
+				text-decoration:underline;			
+			}
+
+			div#textarea_center {
+				width: 95%;
+				padding-bottom: 10px;			
+			}
+	
+			span.niceGreenLine {
+				display:none;			
+			}
+
+			div#inline-head img {
+				float:none;
+				margin:0 auto;			
+			}
+
+			div#major_con h3 {
+				font-size:17px;	
+				padding-left:10px;
+			}
+
+			div#major_con img {
+				height: 395px;
+				width: 100%;
+			}
+			
+			div#onGreen {
+				margin-left:0px;
+				height: 325px;
+				width: 96%;
+			}
+	
+			div#onGreen button {
+				margin-left: 10;				
+			}			
+
+			div#line-area {
+				width:90%;
+				height: inherit;
+				margin:5px;			
+			}
+			
+			div#green textarea {
+				width: 100%;
+				border-radius: 3px;
+				/*padding:10px;*/
+				
+			}
+
+			span.again_green  {
+				line-height: 2;
+			}
+
+			.second {
+				display:none;			
+			}
+
+			div#green textarea.second {
+				margin-top: 40px; /*later animated */
+				background-color:white; /**/
+			}
+	
+			div#green button {
+				margin-top: 35px;
+				float:none;
+				border-radius: 7px;			
+			}
+
+			div#onGreen_textarea.vacation {
+				position:absolute;
+				bottom: 10px;	
+			}
+
+			div#onGreen_textarea textarea {
+				width: 100%;
+				margin: 5px;
+			}
+
+			div#aft_nav_navigation {
+				/*height: 80px;*/
+				margin-top: 40px !important;
+				width: 100%;
+				height: inherit;
+			}
+
+			div#aft_nav_navigation ul {
+				width:90%;
+				margin-top:0px!important;
+				/*border:1px solid orange;*/
+				margin-left:-35px; /*what ???*/			
+			}
+
+			div#aft_nav_navigation ul li {
+				padding:5px;	
+				font-size: 15px;		
+			}
+
+			div#box-box {
+				height:inherit;
+				width: 90%;
+				/*border:1px solid red;*/
+			}
+
+			div#box {
+				/*height: 156px;*/
+				margin:5px;
+				float:left;
+				width: 45%;
+				height: 45px;
+				box-sizing:border-box;
+				/*position:absolute;*/
+				font-size: 12px;	
+			}
+
+			div#aft_nav_navigation ul {
+				font-size:12px;
+				margin-top: 55px;				
+			}
+
+			div#select_destination {
+				width:100%;
+				height: inherit;
+				margin: 0px auto;
+			/*	border: 3px solid red;*/
+				clear: both;
+				margin:5px;
+				position: relative;
+				padding: 1px;	
+			}
+
+			div#destination_picsWrapperScroll{
+				width: 2785px;
+				overflow: hidden;			
+			}
+
+			div#select_destination ul {
+				margin-left:-40px;				
+			}
+			
+			div#select_destination ul li {
+				margin:2px;
+				padding:2px;
+				box-sizing:border-box;
+				float:none;
+				width:95%;
+				/*margin:0 auto;*/
+			}
+
+			div#destination_pics {
+				width: 92% !important;
+ 				margin: 150px auto!important;
+				/*overflow: scroll;*/
+				overflow-x: scroll;
+				height: 288px;
+			}
+
+			div#bottom_con_topDestinations.hotels_popular {
+				width: 90%;
+				margin: -140px auto;
+			}
+
+			div#bottom_con_topDestinations {
+				width: 90%;
+				margin:0 auto;	
+			}
+
+			div#bottom_con_topDestinations.hotels_popular ul {
+				margin-left:0px;
+				/*border:1px solid yellow;*/
+				width: 90%;
+				height: 100%;
+				padding:0px;
+				border-bottom: 2.8px solid #e7e5d9;
+				margin: 10px 10px;			
+			}
+
+			div#bottom_con_topDestinations.hotels_popular ul li {
+				padding:2px;			
+			}
+
+			div#destination_pics {
+   				 width: 64% !important;
+			}
+
+			div#footer {
+				width:100%;			
+			}
+
+			div#bottom_con {
+				width: 90%;
+				margin:20px auto;	
+				height: inherit;	
+				border:none;	
+			}
+
+			div#footer div#footer_con {
+				width: 100%;			
+			}
+
+			div#footer ul li {
+				font-size: 11px;				
+			}
+
+
+			div#header {
+				 transition: all 0.3s;
+			}
+
+			div#green {
+				 transition: all 0.3s;
+			}
+		}		
+
+
+
+
+
+@media only screen and (max-width: 1220px) and (min-width: 725px)  {
+
+			body{
+				/*background-color:red!important;*/
+			}
+
+			div#wrapper {
+			       width: 90%;
+			       margin: 0 auto;
+			       background-color: #f1f1f1;
+			}
+	
+			div#onGreen {
+		    	        width: 75%;
+			}
+
+			div#green ul {
+				width:85%;	
+			}
+	
+			div#textarea_center {
+		    		width: 95%;
+				margin-left: 7px;
+				height:50px;
+			}
+
+			div#green {
+				width: 100%;	
+			}
+
+			div#inline-head {
+			        margin: 0 auto;
+			        width: 90%;
+			    /*border: 1px solid orange;*/
+			        height: 36;
+			}
+
+			div#inline-head img {
+			        float: left;
+			        margin-left: -20px;
+			}
+	
+
+			div#green textarea {
+			        width: 44%;
+			}
+
+			div#select_destination {
+				margin-top: 40px;
+				width: 100%;
+			}
+
+			div#major_con {
+				width: 100%;
+			}
+
+			div#select_destination ul li {
+				padding: 2px;
+				margin: 2px;	
+			}
+
+			div#aft_nav_navigation ul li {
+				font-size: 15px;	
+			}
+
+			div#destination_pics {
+			        width: 95%;
+			        height: 500px;
+			        margin: 0px auto;
+			}
+	
+			div#bottom_con_topDestinations {
+				width:90%;
+				margin:30px;	
+			}
+
+			div#bottom_con {
+				width:90%;
+				margin:30px;	
+			}
+
+			div#footer div#footer_con {
+				width:90%;
+				margin:30px;
+			}
+			div#major_con img {
+			       height: 350px;
+			       width: 100%;
+			}
+
+			div#bottom_con_topDestinations.hotels_popular ul {
+			    float: left;
+			    width: 170px;
+			  /*  border: 1px solid blue;*/
+			    padding: 10px;
+			    margin: 10px 4px;
+			    height: 330px; 	/**/
+			}
+
+			div#green textarea.second {
+			    margin-left: -10px;
+			}
+
+}
+
+
